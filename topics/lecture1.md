@@ -13,8 +13,18 @@
 - Propagation
 - Longitudinal and Transverse waves
 - Attenuation
-Note: Velocity speed in a direction, m/s ->
+Note:
+Sound is covered
 
+When particles in a medium move closer together, rarefaction is the opposite
+
+Velocity speed in a direction, m/s ->
+
+To move through or cause to move through
+
+Directions of movement of a waveform within a medium
+
+Loss of energy
 
 
 
@@ -144,6 +154,8 @@ Guitar Transverse wave
 #### Sound as Energy Transfer
 
 - Attenuation is when energy is lost travelling through the medium, the intensity reduces. If the energy is totally dispersed before it reaches the receptor the chain is broken and nothing is heard.
+Note:
+Energy lost through friction
 
 
 
@@ -172,7 +184,7 @@ Guitar Transverse wave
 #### Velocity of Sound in Solids: Young's Modulus
 
 - Young's Modulus: Velocity is equal to the square root of the Young's Modulus of the material divided by the density of the material.
-    - `$v = \sqrt{\frac{E}{p}}$` where $v$ is velocity, $p$ is density of the material measured in $kg / m^3$ and $E$ is Young's Modulus.
+    - `$v = \sqrt{\frac{E}{\rho}}$` where $v$ is velocity, $\rho$ is density of the material measured in $kg / m^3$ and $E$ is Young's Modulus.
 
 
 
@@ -188,7 +200,7 @@ Guitar Transverse wave
 
 - The density of steel is $7800 kg/m^3$
 - The Young's Modulus (springiness) of the steel is $2.1 \times 10^{11}$
-- $v = \sqrt{\frac{E}{p}} = \sqrt{\frac{2.1 \times 10^{11}}{7800}} = 5189 m/s$
+- $v = \sqrt{\frac{E}{\rho}} = \sqrt{\frac{2.1 \times 10^{11}}{7800}} = 5189 m/s$
 - Most of the sound that reaches us does so having travelled through air
 - Air doesn't have a Young's Modulus
 - What factors would affect the speed of sound in the air?

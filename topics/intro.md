@@ -32,22 +32,23 @@ May be group or individual...
 
 
 
-#### Summary of Course
+#### Course content
 
 ##### Acoustics
 - The science of sound, branch of physics
 - Various models/basic theories and concepts used to study sound
 - Group presentation
 Note:
+We will also cover
 Wave Parameters: the period, the frequency, the amplitude, the wavelength, and the speed
 
-Acoustic Impedance: Acoustic impedance and specific acoustic impedance are measures of the opposition that a system presents to the acoustic flow resulting of an acoustic pressure applied to the system
+Acoustic Impedance: measures of the opposition that a system presents to the acoustic flow resulting of an acoustic pressure applied to the system
 
 Sound Intensity, Power and Pressure Level, Adding Sounds
 
 
 
-#### Summary of Course
+#### Course content
 
 ##### Psychoacoustics
 - Human perception of sound
@@ -103,7 +104,6 @@ Perry Cook: on the basic physiology and functions of the ear and auditory sectio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hloic1oBfug" frameborder="0" allowfullscreen></iframe>
 
 
-
 #### Attendance
 Note:
 Class attendance. Highly encouraged to come to every class.
@@ -122,7 +122,7 @@ Noted, nobody shown for 3 sessions. Would be nice to know
 - Auditory Scene Analysis
 
 Note:
-Sound: is a vibration which propagates through a substrate or medium such as a solid, liquid or gas, as an audible wave of pressure.
+Sound: is a vibration which propagates through a medium such as a solid, liquid or gas, as an audible wave of pressure.
 
 Noise: is any sound in the acoustic domain, also types of noise, white noise, pink noise, brown noise, sound energy randomly spread across a particular frequency band
 
