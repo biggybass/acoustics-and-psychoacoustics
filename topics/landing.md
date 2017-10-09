@@ -5,4 +5,11 @@ console.log("sdfdsf");
 ### MU610: Acoustics & Psychoacoustics
 ##### Week 1
 - [Introduction](index.html?topic=intro)
-- [The nature of sound waves](index.html?topic=lecture1)
+- [The nature of sound waves](index.html?topic=nature_of_sound_waves)
+
+
+
+##### Week 2
+- [Wave parameters](index.html?topic=wave_parameters)
+- [Acoustic Impedence](index.html?topic=acoustic_impedence)
+- [Sound Intensity, Power & Pressure Level, Adding Sounds](index.html?topic=sound_intensity_power)
