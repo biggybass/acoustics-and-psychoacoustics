@@ -18,6 +18,7 @@ What is sound?
 
 
 
+
 #### Fundamental Items
 
 - Periodic Waves
@@ -33,6 +34,7 @@ Use grapher for a lot of this
 
 
 
+
 #### Sound Waves
 
 - Sound waves are pressure waves (based on the compression and rarefactions of molecules) which travel through a medium.
@@ -40,6 +42,7 @@ Use grapher for a lot of this
 - The simplest type of sound waves is a periodic type...in other words, it has a repeating pattern.
 Note:
 Young's modulus
+
 
 
 
@@ -60,6 +63,7 @@ The simplest form of sound wave, (periodic waveforms) have the following paramet
 - Period: Time for a single repetition. It is represented by T
 - Frequency:  The rate of repetition, measured in Hertz (Hz)
 - Wavelength: A measure of how long a cycle. Represented by the greek letter lambda $\lambda$ e.g. 440Hz sound $\lambda$ in air is about 77.8cm
+
 
 
 #### Wave Parameters
