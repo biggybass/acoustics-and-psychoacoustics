@@ -13,3 +13,9 @@ console.log("sdfdsf");
 - [Wave parameters](index.html?topic=wave_parameters)
 - [Acoustic Impedence](index.html?topic=acoustic_impedence)
 - [Sound Intensity, Power & Pressure Level, Adding Sounds](index.html?topic=sound_intensity_power)
+
+
+
+##### Week 3
+- [Presentation](index.html?topic=presentation)
+- [Sound Intensity, Power & Pressure Level, Adding Sounds continued...](index.html?topic=sound_intensity_power_continued)
