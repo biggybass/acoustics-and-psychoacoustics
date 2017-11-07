@@ -19,4 +19,14 @@ console.log("sdfdsf");
 ##### Week 3
 - [Presentation](index.html?topic=presentation)
 - [Sound Intensity, Power & Pressure Level, Adding Sounds continued...](index.html?topic=sound_intensity_power_continued)
+
+
+
+##### Week 4
 - [Timbre Introduction](index.html?topic=timbre_intro)
+- [Timbre Continued](index.html?topic=timbre_continued)
+
+
+
+##### Week 5
+- [The Ear](index.html?topic=ear)

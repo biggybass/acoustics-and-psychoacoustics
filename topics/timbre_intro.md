@@ -5,7 +5,7 @@
 
 #### Fundamental Items
 
-- General understanding of timbre
+- General definition of timbre
 - Helmholtz model for timbre
 - The three stage envelope
 - Harmonic series
@@ -26,7 +26,8 @@
 - Timbre is clearly difficult to define
 - It is related to the perceived tone qualities of classes of sound, sometimes called sound colour, in analogy to light
 - It is, as above, difficult to characterise, much more so than loudness and pitch. It is multi-dimensional and cannot be characterised as a one dimensional scale, such as high/low or loud/soft.
-
+Notes:
+Brightnesss, roughness
 
 
 #### Timbre
@@ -38,7 +39,7 @@
 
 #### Timbre
 
-- As we start to discuss the perception as opposed to the physical nature of sound we begin to move more and more towards an area of research known as psycho-acoustics.
+- As we start to discuss the perception as opposed to the physical nature of sound we begin to move more and more towards an area of research known as psychoacoustics.
 - Ultimately, the aim of studies of timbre is to to identify the different perceptual results of different physical changes to the sound and to organise these findings into some sort of graph based on a multi-dimensional 'timbre-space'
 
 
@@ -63,6 +64,8 @@
 
 - Three stage envelope
 - During the attack of the tone, the amplitude grows from zero to peak. During the steady-state the amplitude is ideally constant. During the decay, the sound dies away.
+Note:
+Like Csounds linen
 
 
 
@@ -166,12 +169,15 @@ Show a spectrogram of instrument
 Note: 
 Show spectral envelope plot, in ableton maybe?
 
+
+
 #### The Spectrum
 
 - Examination of spectral envelopes of waveforms may show them to be 'band-limited'. That is, there is a frequency above which the tones contain no significant amount of acoustic energy.
 - The bandwidth of a sound is the width of the frequency region in which its significant components reside; one of a number of useful means of characterising spectra.
 - This is important to consider in the areas of sound engineering and recording production
-
+Note:
+Show mp3 spectrum
 
 
 
@@ -199,7 +205,6 @@ Show spectrogram
 
 
 ### The Fourier Transform
-
 - We have seen how complex waveforms can be built out of sinusoidal components. One of the most powerful and useful conceptual tools for understanding this process is the Fourier Transform.
 - Fourier derived a mathematical expression that transforms a waveform into its spectrum, showing explicitly the amplitudes and phases of the sinusoidal that comprise it. No information is lost in this transformation, the spectrum may be transformed into the waveform and vice versa.
 
@@ -209,3 +214,5 @@ Show spectrogram
 
 - In computer terms the Fourier Transform equation takes a long time to computer so we use a slightly modified version of the transform which follows changes in spectra over time called the Short Time Fourier Transform (STFT).
 - This transform is the basis of one of the most useful DSP tools available to musicians, the Phase Vocoder.
+
+https://bl.ocks.org/jinroh/7524988
