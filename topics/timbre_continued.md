@@ -223,10 +223,6 @@ Maybe an example of cues
 - This is what we call the 'volume control effect': the note will just sound as if the volume was turned up, not like a real $ ff $ sound
 - Most Wavetable synthesisers are based on acoustic instrument samples. If the synth does not use multiplier wavetables different samples for different pitches, intensities etc..) the note may appear acoustically and perceptually 'wrong'.
 
-Note:
-ff fortissimo loud
-pp pianissimo very soft
-Crappy 80s samplers, drum machines
 
 
 
