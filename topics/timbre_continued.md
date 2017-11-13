@@ -201,8 +201,7 @@ Show white noise spectrogram
 
 - For stringed instruments, higher pitches are generally produced by shorter lengths of string and thus exhibit less inertial resistance and shorter transients. Low pitches are produced by longer lengths of string (and often thicker strings) and thus exhibit more inertia and longer transients. As the string (or air column) overcomes the inertial resistance, both pitch and spectrum stabilize.
 - These variations in initial-transients behaviour provide important cues as to what instrument is making the sound.
-Note:
-Maybe an example of cues
+
 
 
 #### Timbre and Dynamics

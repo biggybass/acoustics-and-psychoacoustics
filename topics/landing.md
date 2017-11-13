@@ -30,3 +30,4 @@ console.log("sdfdsf");
 
 ##### Week 5
 - [The Ear](index.html?topic=ear)
+- [Critical Bands](index.html?topic=critical_bands)

@@ -6,7 +6,6 @@
 
 ### Overview
 
-- Simplified diagram of the ear
 - Outer / Middle/ Inner ear physiology and functions
 - The lever effect
 - Area difference in relation to pressure in the middle ear
@@ -18,7 +17,7 @@
 #### Overview
 
 - Acoustic energy, vibrations in a medium, cause a flow of energy which will eventually arrive at our ear where those disturbances are translated into electrical signals. These are sent to the brain where they are then perceived as sound.
-- So, the ear itself can be seen as a form of an energy converter: acoustic energy (sound waves) -> mechanical energy -> electrical energy
+- So, the ear itself can be seen as a form of energy converter: acoustic energy (sound waves) -> mechanical energy -> electrical energy
 - The brain interprets the electrical energy as sound
 
 
@@ -40,7 +39,7 @@
 
 - In some aspects, the ear can be considered to work in a similar manner to a microphone:
 - 1) The diaphragm on a microphone likened to the eardrum in our middle ear 
-- 2) The manner in which a microphone/ the inner ear system converts the original vibrations in the air around the microphone/ ear into electrical signals are very similar
+- 2) The manner in which a microphone/ the inner ear system converts the original vibrations in the air around the microphone/ ear into electrical signals
 
 
 
@@ -78,7 +77,7 @@
 
 - It consists of three layers.
     - The outside layer which is a continuation of the skin lining in the auditory canal - The inside layer which is continuous with the mucous linings of the middle ear.
-    - The layer between these which is a fibrous structure which gives the tympanic membrane its elasticity and strength
+    - The layer between, which is a fibrous structure that gives the tympanic membrane its elasticity and strength
 
 
 
@@ -116,7 +115,7 @@
 
 #### Middle ear: Physiology
 
-- The malleus is fixed to the eardrum. It pulls it inwards when it is at rest, thus the eardrum appears concave. 
+- The malleus is fixed to the eardrum. It pulls the eardrum inwards when it is at rest, thus the eardrum appears concave. 
 - The stapes footplate, is attached to the oval window of the conchlea.
 
 
@@ -136,8 +135,8 @@
 
 
 #### Middle ear: Functions
-- The pressure at the stapes footplate is significantly larger than that at the tympanic membrane. Thus efficient transfer from the tympanic membrane to the oval window is achieved.
-- The middle ear achieves this via the..:
+- The pressure at the stapes footplate is significantly greater than that at the tympanic membrane. Thus efficient transfer from the tympanic membrane to the oval window is achieved.
+- The middle ear achieves this via the:
     1. Levering effect of the malleus and incus.
     2. Concentration of force onto the oval window surface area (1/15th that of the eardrum)
 
@@ -168,14 +167,13 @@ $F2 = F1 \times (L1/L2) $
 #### The Middle Ear: Lever Effect
 
 - A secondary effect, the buckling of the tympanic membrane, provides an extra force increase by a factor of 2.
-- This effect the force applied to the malleus.
 - The malleus is approximately 1.3 times the length of the incus.
+- The area of the tympanic membrane is approximately 13 times that of the stapes footplate.
 
 
 
 #### The Middle Ear: Lever Effect
 
-- The area of the tympanic membrane is approximately 13 times that of the stapes footplate.
 - Considering the above, the pressure at the stapes footplate is thus about $(13 \times 1.3 \times 2 = 33.8)$ times more than the pressure at the tympanic membrane.
 - This increases the waveform pressure by around $30.6 dB$
 
@@ -185,15 +183,26 @@ $F2 = F1 \times (L1/L2) $
 
 - The acoustic reflex protects the sensitive inner ear from large pressure variation.
 - Two muscles are responsible - the tympanic and stapedius muscles. These tighten when subjected to loud sounds.
-- The effect takes 60 to 120 ms to come into action. Hence it is of little use in the case of explosive sounds (e.g. gunshots). Also the muscles cannot maintain their taut mode of existence indefinitely. 
+- The effect takes 60 to 120 ms. Hence it is of little use in the case of explosive sounds (e.g. gunshots). Also the muscles cannot maintain their taut mode of existence indefinitely. 
 
 
 
 #### Acoustic Reflex
 - Therefore exposure to prolonged loud sounds will cause inner ear damage. 
 - Another function of these muscles is to dampen down the sound of ones own voice. As we speak, these little muscles adjust the middle ear bone tension.
+
+
+
+#### Acoustic Reflex
 - Above 75 dB SPL, the acoustic reflex begins to work, stiffening of the ossicular chain reduces the effeciency of the energy transmission, thus lowering the levels sent to the inner ear.
 - Approximately 12 to 14 dB of attentuation is provided by this mechanism, but for frequencies below 1kHz only
+
+
+
+#### Inner Ear
+
+- The chochlea receives vibrations from the middle ear at the 'base', terminates at the 'apex'. Coiled into a spiral, approx. 2.75 turns.
+- The function of the chochlea is to detect sounds at different frequencies and transform this information into electric signals which are sent to the brain for processing.
 
 
 
@@ -205,13 +214,6 @@ $F2 = F1 \times (L1/L2) $
 
 #### Inner Ear
 <img src="./images/cochlea.jpg" width="650px" height="500px"></img>
-
-
-
-#### Inner Ear
-
-- The chochlea receives vibrations from the middle ear at the 'base', terminates at the 'apex'. Coiled into a spiral, approx. 2.75 turns.
-- The function of the chochlea is to detect sounds at different frequencies and transform this information into electric signals which are sent to the brain for processing.
 
 
 
@@ -246,7 +248,7 @@ $F2 = F1 \times (L1/L2) $
 #### Basilar Membrane
 
 - On the basilar membrane, the organ of corti contains hair cells, the movement of which leads to the firing of neurons.
-- The basilar membrane is a band of muscle which responds to different frequencies along the length.
+- The basilar membrane is a band of muscle which responds to different frequencies along its length.
 - At the other end, the apex, it is thick and wide and responds to low frequencies. 
 
 
@@ -255,7 +257,11 @@ $F2 = F1 \times (L1/L2) $
 - Different places of the Basilar membrane will be displaced by sinusoids at different frequencies
 - Complex tones will cause the membrane to react to each component frequency
 - The Organ of Corti transmits basilar membrane displacements to the brain.
-- Organ of Corti: A number of hair cells (distributes along the basilar membrane), which, when bent (by basilar membrane displacement due to input sound at appropriate frequency) trigger nerve firings.
+
+
+
+#### Frequency Analysis
+- Organ of Corti: A number of hair cells (distributed along the basilar membrane), which, when moved (by basilar membrane displacement due to input sound at an appropriate frequency) trigger nerve firings.
 - The auditory nerve: bundle of nerves from these hair cells
 
 
@@ -263,7 +269,7 @@ $F2 = F1 \times (L1/L2) $
 #### Summary
 
 - Inner Ear:
-    - Physiology: cochlea: basilar membrane – Function: Logarithmic frequency analysis
+    - Physiology: cochlea, basilar membrane - Function: Logarithmic frequency analysis
 - Middle Ear: The three ossicles
     - Physiology: Malleus (hammer), Incus (anvil) and Stapes (stirrup)
     - Functions: Smallest ear-drum pressure-> Ossicles (lever-system)->larger oval window pressure: change Impedance.. also Acoustic Reflex
@@ -286,10 +292,10 @@ $F2 = F1 \times (L1/L2) $
 
 
 #### Summary
-- This is the reason behind the fact that we perceive frequencies logarithmically rather than linearly.
+- This is the reason why we perceive frequencies logarithmically rather than linearly.
 - e.g. A note frequencies: 55Hz, 110Hz, 220Hz, 440Hz, 880Hz, 1760Hz -  We perceive a double in frequency as an octave in difference
 
 
 
 #### Summary
-- So the sensitivity of the ear is based on a purely mechanical vibrating system. The minimum movement detectable by this system is of the order of the width of a hydrogen atom. For this to be the case, the vibrating surfaces of the inner ear must be extremely light. So that they are also robust, they are encased in the hardest bone in the body - the petrous temporal bone which encompasses the vestibular system and the cochlea.
+- So the sensitivity of the ear is based on a purely mechanical vibrating system. The minimum movement detectable by this system is of the order of the width of a hydrogen atom. For this to be the case, the vibrating surfaces of the inner ear must be extremely light. They are also encased in the hardest bone in the body - the petrous part of the temporal bone which encompasses the vestibular system and the cochlea making the system also extremely robust.
