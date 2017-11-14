@@ -39,13 +39,13 @@
 
 #### Range of Human Hearing
 
-<img src="../images/critical_bands/image1-10.png"></img>
+<img src="./images/critical_bands/image1-10.png"></img>
 
 
 
 #### Typical SPL Levels
 
-<img src="../images/critical_bands/image2-12.png"></img>
+<img src="./images/critical_bands/image2-12.png"></img>
 
 
 
@@ -84,7 +84,7 @@
 
 #### Fletcher Munson Curves
 
-<img src="../images/critical_bands/image5-18.jpeg"></img>
+<img src="./images/critical_bands/image5-18.jpeg"></img>
 
 
 
@@ -145,7 +145,7 @@
 
 #### The Cochlea 
 
-<img src="../images/critical_bands/image6-20.png"></img>
+<img src="./images/critical_bands/image6-20.png"></img>
 
 
 
@@ -186,7 +186,7 @@
 
 ####  The Auditory Filterbank
 
-<img src="../images/critical_bands/image7-22.png"></img>
+<img src="./images/critical_bands/image7-22.png"></img>
 
 The auditory system is like a set of overlapping bandpass filters
 
@@ -224,13 +224,13 @@ The auditory system is like a set of overlapping bandpass filters
 
 #### Gammatone Filters
 
-<img style="background:white;" src="../images/critical_bands/image8-24.png"></img>
+<img style="background:white;" src="./images/critical_bands/image8-24.png"></img>
 
 
 
 #### Gammachirp Filters
 
-<img style="background:white;" src="../images/critical_bands/image10-28.png"></img>
+<img style="background:white;" src="./images/critical_bands/image10-28.png"></img>
 
 
 
@@ -252,7 +252,7 @@ The auditory system is like a set of overlapping bandpass filters
 
 #### Types of Masking
 
-<img style="background:white;" src="../images/critical_bands/image11-30.jpeg"></img>
+<img style="background:white;" src="./images/critical_bands/image11-30.jpeg"></img>
 
 
 
@@ -276,7 +276,7 @@ The auditory system is like a set of overlapping bandpass filters
 
 #### Masking
 
-<img style="background:white;" src="../images/critical_bands/image12-32.png"></img>
+<img style="background:white;" src="./images/critical_bands/image12-32.png"></img>
 
 
 
@@ -289,7 +289,7 @@ The auditory system is like a set of overlapping bandpass filters
 
 
 #### Critical Band and Hertz
-<img style="background:white;" src="../images/critical_bands/image13-34.png"></img>
+<img style="background:white;" src="./images/critical_bands/image13-34.png"></img>
 
 
 
@@ -334,7 +334,7 @@ The auditory system is like a set of overlapping bandpass filters
 
 #### Illustration of perceptual changes with one tone is fixed and moving the second tone
 
-<img style="background:white;" src="../images/critical_bands/image14-36.png"></img>
+<img style="background:white;" src="./images/critical_bands/image14-36.png"></img>
 
 
 
@@ -357,7 +357,7 @@ The auditory system is like a set of overlapping bandpass filters
 
 
 #### Beating
-<img style="background:white;" src="../images/critical_bands/image15-38.jpeg"></img>
+<img style="background:white;" src="./images/critical_bands/image15-38.jpeg"></img>
 
 
 
@@ -377,7 +377,7 @@ The auditory system is like a set of overlapping bandpass filters
 
 #### Masking with Tones
 - One can generate a 1 kHz masking tone, at fixed sound level of 60 dB, then raise the level of a nearby tone until just audible
-<img style="background:white;" src="../images/critical_bands/image16-40.png"></img>
+<img style="background:white;" src="./images/critical_bands/image16-40.png"></img>
 - Plot shows threshold of audibility raised for tones at nearby frequencies
 
 
@@ -405,19 +405,19 @@ The auditory system is like a set of overlapping bandpass filters
 
 #### Masking and Noise
 
-<img style="background:white;" src="../images/critical_bands/image18-44.jpeg"></img>
+<img style="background:white;" src="./images/critical_bands/image18-44.jpeg"></img>
 
 
 
 
 #### Signal detection threshold and Noise BW
-<img style="background:white;" width="400px" height="350px" src="../images/critical_bands/image19-46.png"></img>
+<img style="background:white;" width="400px" height="350px" src="./images/critical_bands/image19-46.png"></img>
 - As the noise bandwidth increases the level of the signal needed to be able to hear it increases  until it reaches  the Critical Bandwidth
 
 
 
 #### Signal detection threshold and Noise BW
-<img style="background:white;" width="400px" height="350px" src="../images/critical_bands/image19-46.png"></img>
+<img style="background:white;" width="400px" height="350px" src="./images/critical_bands/image19-46.png"></img>
 - We can't know the exact filter bandwidth or shape from these results
 - At 2kHz the Critical Bandwidth is 400Hz
 
@@ -440,7 +440,7 @@ The auditory system is like a set of overlapping bandpass filters
 
 #### Moving the tone outside the critical band
 
-<img style="background:white;" src="../images/critical_bands/image20-48.png"></img>
+<img style="background:white;" src="./images/critical_bands/image20-48.png"></img>
 
 - Threshold of detection curve in the presence of a masking noise with a bandwidth equal to the critical bandwidth, a centre frequency of 1 kHz and a level of 60 dBspl (dB sound pressure level)
 
@@ -448,21 +448,21 @@ The auditory system is like a set of overlapping bandpass filters
 
 #### Moving the tone outside the critical band
 
-<img style="background:white;" src="../images/critical_bands/image20-48.png"></img>
+<img style="background:white;" src="./images/critical_bands/image20-48.png"></img>
 - The threshold of detection is not raised at only 1 kHz, but at surrounding frequencies
 
 
 
 #### Noise Masking at other Frequencies
-<img style="background:white;" src="../images/critical_bands/image21-50.png"></img>
-<img style="background:white;" src="../images/critical_bands/image22-52.png"></img>
+<img style="background:white;" src="./images/critical_bands/image21-50.png"></img>
+<img style="background:white;" src="./images/critical_bands/image22-52.png"></img>
 - The amount that a masking noise changes the threshold of detection of a tone at its centre frequency depends on the bandwidth and the level of the noise. 
 
 
 
 #### Noise Masking at other Frequencies
-<img style="background:white;" src="../images/critical_bands/image21-50.png"></img>
-<img style="background:white;" src="../images/critical_bands/image22-52.png"></img>
+<img style="background:white;" src="./images/critical_bands/image21-50.png"></img>
+<img style="background:white;" src="./images/critical_bands/image22-52.png"></img>
 - The figures shows the change in the threshold of detection caused by a masking noise with a bandwidth equal to the critical bandwidth with a centre frequency of 1 kHz at various levels.
 
 
@@ -498,7 +498,7 @@ $ \Delta z = z\_{M} - z\_{T} = -2.07$
 
 #### Masking based on Bark difference
 
-<img style="background:white;" src="../images/critical_bands/image25-58.png"></img>
+<img style="background:white;" src="./images/critical_bands/image25-58.png"></img>
 
 
 
@@ -506,7 +506,7 @@ $ \Delta z = z\_{M} - z\_{T} = -2.07$
 
 - Find the point at -2.07 Bark on the plot which corresponds to the Test tone magnitude of 35dB
 
-<img style="background:white;" src="../images/critical_bands/image26-60.png"></img>
+<img style="background:white;" src="./images/critical_bands/image26-60.png"></img>
 
 
 
@@ -538,7 +538,7 @@ $ \Delta z = z\_{M} - z\_{T} = -6.10$
 
 #### Locate on the Plot
 
-<img style="background:white;" src="../images/critical_bands/image28-64.png"></img>
+<img style="background:white;" src="./images/critical_bands/image28-64.png"></img>
 
 
 
@@ -560,7 +560,7 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 #### Ideal Asymmetric Auditory Filterbank shape
 
-<img style="background:white;" src="../images/critical_bands/image29-66.png"></img>
+<img style="background:white;" src="./images/critical_bands/image29-66.png"></img>
 
 
 
@@ -609,21 +609,21 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 #### Masking Patterns for Narrowband Noise Masker
 
-<img style="background:white;" src="../images/critical_bands/image31-70.jpeg" width="350px" height="250px"></img>
+<img style="background:white;" src="./images/critical_bands/image31-70.jpeg" width="350px" height="250px"></img>
 - Masking patterns for a narrowband noise masker centred at 410Hz.
 
 
 
 #### Masking Patterns for Narrowband Noise Masker
 
-<img style="background:white;" src="../images/critical_bands/image31-70.jpeg" width="350px" height="250px"></img>
+<img style="background:white;" src="./images/critical_bands/image31-70.jpeg" width="350px" height="250px"></img>
 - Each curve shows the elevation in threshold of a pure-tone signal as a function of signal frequency. 
 - The overall noise level in dB SPL for each curve is indicated in the figure.
 
 
 
 #### Excitation Patterns
-<img style="background:white;" src="../images/critical_bands/image32-72.gif"></img>
+<img style="background:white;" src="./images/critical_bands/image32-72.gif"></img>
 - SNHL: Sensorineural Hearing loss
 - For a 1000 Hz pure tone the excitation pattern for a normal and for a SNHL listener look like this:
 
@@ -663,7 +663,7 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 
 #### Forward Masking 
-<img style="background:white;" src="../images/critical_bands/image33-74.png"></img>
+<img style="background:white;" src="./images/critical_bands/image33-74.png"></img>
 
 - The shorter the masker sound is on for, the quicker the forward-masking effect decays. 
 
@@ -672,7 +672,7 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 
 #### Forward Masking 
-<img style="background:white;" src="../images/critical_bands/image33-74.png"></img>
+<img style="background:white;" src="./images/critical_bands/image33-74.png"></img>
 
 - After about 200 milliseconds, hearing returns to typical "threshold in quiet" behaviour.
 
@@ -689,7 +689,7 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 
 #### Persistance of Neural Activity
-<img style="background:white;" src="../images/critical_bands/image35-78.png"></img>
+<img style="background:white;" src="./images/critical_bands/image35-78.png"></img>
 
 
 
@@ -711,13 +711,13 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 #### Three types of Masking
 
-<img style="background:white;" src="../images/critical_bands/image36-80.png"></img>
+<img style="background:white;" src="./images/critical_bands/image36-80.png"></img>
 
 
 
 #### Masking in Time and Frequency
 
-<img style="background:white;" src="../images/critical_bands/image37-82.gif"></img>
+<img style="background:white;" src="./images/critical_bands/image37-82.gif"></img>
 
 
 
@@ -763,7 +763,7 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 #### Dissonance Curve
 
-<img style="background:white;" src="../images/critical_bands/image38-84.png"></img>
+<img style="background:white;" src="./images/critical_bands/image38-84.png"></img>
 
 - Dissonance curve for a spectrum with fundamental at 500 Hz and six harmonic partials has minima at 1.0, 1.14, 1.2, 1.25, 1.33, 1.5, 1.67, 1.78, and 2.0, which are shown by the tick marks on the frequency axis
 
@@ -971,7 +971,7 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 - Consider the intervals played in Just Intonation and Equal temperament
 
 <audio controls>
-  <source src="../sounds/critical_bands/media1-87.wav" type="audio/wav">
+  <source src="./sounds/critical_bands/media1-87.wav" type="audio/wav">
 </audio>
 
 
@@ -1011,11 +1011,11 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 - Example of scale in Just Intonation
     - <audio controls>
-  <source src="../sounds/critical_bands/media2-88.wav" type="audio/wav">
+  <source src="./sounds/critical_bands/media2-88.wav" type="audio/wav">
 </audio>
 - Example of chords in Just intonation
     - <audio controls>
-  <source src="../sounds/critical_bands/media3-89.wav" type="audio/wav">
+  <source src="./sounds/critical_bands/media3-89.wav" type="audio/wav">
 </audio>
 
 
