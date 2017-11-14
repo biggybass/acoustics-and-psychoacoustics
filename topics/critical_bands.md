@@ -476,7 +476,7 @@ https://csd.wisc.edu/vcd202/cbmask.html
 #### Numerical Example 1
 
 - If the equation to convert from Frequency to Bark is
-$ \text{Bark}(z) = 13 \arctan \big( \frac{0.00076}{f}\big)+3.5\arctan\Big(\big(\frac{f}{7500}\big)^{2}\Big)$
+$ \text{Bark}(z) = 13 \arctan \big( 0.00076 \times f\big)+3.5\arctan\Big(\big(\frac{f}{7500}\big)^{2}\Big)$
 
 - Considering the two tones below, will the masking tone mask the test tone?
     - Masking tone: 1000Hz, 70dB
@@ -488,9 +488,9 @@ $ \text{Bark}(z) = 13 \arctan \big( \frac{0.00076}{f}\big)+3.5\arctan\Big(\big(\
 
 - First we need to determine the critical band value difference between the masking and test tone
 
-$ z_{M} = 13 \arctan \big( \frac{0.00076}{1000}\big)+3.5\arctan\Big(\big(\frac{1000}{7500}\big)^{2}\Big)=8.51$
+$ z_{M} = 13 \arctan \big( 0.00076 \times 1000 \big)+3.5\arctan\Big(\big(\frac{1000}{7500}\big)^{2}\Big)=8.51$
 
-$ z_{T} = 13 \arctan \big( \frac{0.00076}{1370}\big)+3.5\arctan\Big(\big(\frac{1370}{7500}\big)^{2}\Big)=10.58$
+$ z_{T} = 13 \arctan \big( 0.00076 \times 1370 \big)+3.5\arctan\Big(\big(\frac{1370}{7500}\big)^{2}\Big)=10.58$
 
 $ \Delta z = z\_{M} - z\_{T} = -2.07$
 
@@ -528,9 +528,9 @@ $ \Delta z = z\_{M} - z\_{T} = -2.07$
 
 #### Bark Difference of Tones
 
-$ z_{M} = 13 \arctan \big( \frac{0.00076}{770}\big)+3.5\arctan\Big(\big(\frac{770}{7500}\big)^{2}\Big)=6.91$
+$ z_{M} = 13 \arctan \big( 0.00076 \times 770 \big)+3.5\arctan\Big(\big(\frac{770}{7500}\big)^{2}\Big)=6.91$
 
-$ z_{T} = 13 \arctan \big( \frac{0.00076}{2000}\big)+3.5\arctan\Big(\big(\frac{2000}{7500}\big)^{2}\Big)=13.01$
+$ z_{T} = 13 \arctan \big( 0.00076 \times 2000 \big)+3.5\arctan\Big(\big(\frac{2000}{7500}\big)^{2}\Big)=13.01$
 
 $ \Delta z = z\_{M} - z\_{T} = -6.10$
 
