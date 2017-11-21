@@ -11,7 +11,7 @@ console.log("sdfdsf");
 
 ##### Week 2
 - [Wave parameters](index.html?topic=wave_parameters)
-- [Acoustic Impedence](index.html?topic=acoustic_impedence)
+- [Acoustic Impedance](index.html?topic=acoustic_impedance)
 - [Sound Intensity, Power & Pressure Level, Adding Sounds](index.html?topic=sound_intensity_power)
 
 
@@ -31,3 +31,9 @@ console.log("sdfdsf");
 ##### Week 5
 - [The Ear](index.html?topic=ear)
 - [Critical Bands](index.html?topic=critical_bands)
+
+
+
+##### Week 6
+- [Sound Localisation](index.html?topic=localisation)
+- [Notes, Harmony and Pitch Perception I](index.html?topic=pitch)

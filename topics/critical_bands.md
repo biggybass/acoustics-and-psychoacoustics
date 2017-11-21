@@ -476,7 +476,8 @@ https://csd.wisc.edu/vcd202/cbmask.html
 #### Numerical Example 1
 
 - If the equation to convert from Frequency to Bark is
-$ \text{Bark}(z) = 13 \arctan \big( 0.00076 \times f\big)+3.5\arctan\Big(\big(\frac{f}{7500}\big)^{2}\Big)$
+$ \text{Bark}(z) = 13 \arctan \big( 0.00076 \times f\big)$
+$+3.5\arctan\Big(\big(\frac{f}{7500}\big)^{2}\Big)$
 
 - Considering the two tones below, will the masking tone mask the test tone?
     - Masking tone: 1000Hz, 70dB
@@ -488,9 +489,11 @@ $ \text{Bark}(z) = 13 \arctan \big( 0.00076 \times f\big)+3.5\arctan\Big(\big(\f
 
 - First we need to determine the critical band value difference between the masking and test tone
 
-$ z_{M} = 13 \arctan \big( 0.00076 \times 1000 \big)\\+3.5\arctan\Big(\big(\frac{1000}{7500}\big)^{2}\Big)=8.51$
+$ z_{M} = 13 \arctan \big( 0.00076 \times 1000 \big)$
+$+3.5\arctan\Big(\big(\frac{1000}{7500}\big)^{2}\Big)=8.51$
 
-$ z_{T} = 13 \arctan \big( 0.00076 \times 1370 \big)\\+3.5\arctan\Big(\big(\frac{1370}{7500}\big)^{2}\Big)=10.58$
+$ z_{T} = 13 \arctan \big( 0.00076 \times 1370 \big)$ 
+$+3.5\arctan\Big(\big(\frac{1370}{7500}\big)^{2}\Big)=10.58$
 
 $ \Delta z = z\_{M} - z\_{T} = -2.07$
 
@@ -528,9 +531,11 @@ $ \Delta z = z\_{M} - z\_{T} = -2.07$
 
 #### Bark Difference of Tones
 
-$ z_{M} = 13 \arctan \big( 0.00076 \times 770 \big)\\+3.5\arctan\Big(\big(\frac{770}{7500}\big)^{2}\Big)=6.91$
+$ z_{M} = 13 \arctan \big( 0.00076 \times 770 \big)$
+$+3.5\arctan\Big(\big(\frac{770}{7500}\big)^{2}\Big)=6.91$
 
-$ z_{T} = 13 \arctan \big( 0.00076 \times 2000 \big)\\+3.5\arctan\Big(\big(\frac{2000}{7500}\big)^{2}\Big)=13.01$
+$ z_{T} = 13 \arctan \big( 0.00076 \times 2000 \big)$
+$+3.5\arctan\Big(\big(\frac{2000}{7500}\big)^{2}\Big)=13.01$
 
 $ \Delta z = z\_{M} - z\_{T} = -6.10$
 
@@ -650,18 +655,6 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 
 
-#### Forward Masking experiment
-
-- Play 1 kHz masking tone at 60 dB, plus a test tone at 1.1 kHz at 40 dB. Test tone can't be heard (it's masked).
-
-- Stop masking tone, then stop test tone after a short delay.
-
-- Adjust delay time to the shortest time when test tone can be heard (e.g., 5 ms).
-
-- Repeat with different level of the test tone and plot 
-
-
-
 #### Forward Masking 
 <img style="background:white;" src="./images/critical_bands/image33-74.png"></img>
 
@@ -688,6 +681,24 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 
 
+#### Forward Masking Demo
+
+- The first forward masking demonstration plays a masking tone and then a tone that is a semitone down with a 100 ms delay in between.  
+- Notice that you can hear both tones even though the second tone is decreased in 3 dB increments.  
+<audio controls>
+  <source src="../sounds/track21.wav" type="audio/wav">
+</audio>
+
+
+
+#### Forward Masking Demo
+- The second forward masking demo, plays the same two tones with a time delay of 10 ms. Masking occurs in this demonstration.  How many steps are audible before the second tone is masked?
+<audio controls>
+  <source src="../sounds/track22.wav" type="audio/wav">
+</audio>
+
+
+
 #### Persistance of Neural Activity
 <img style="background:white;" src="./images/critical_bands/image35-78.png"></img>
 
@@ -709,395 +720,31 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 
 
+#### Backward Masking Demo 
+
+- The initial tone is going to be masked by the tone that follows.  In the first demonstration, a time delay is set to 100 ms. You should be able to hear the first tone throughout.  
+<audio controls>
+  <source src="../sounds/track23.wav" type="audio/wav">
+</audio>
+
+- The time delay is then decreased, but still above the 10 ms range.  This is a grey area.  Does masking occur in this demonstration?  
+<audio controls>
+  <source src="../sounds/track24.wav" type="audio/wav">
+</audio>
+
+
+
+#### Backward Masking Demo 
+
+- Finally, in the third demo, track 25, the time delay is below 10 ms. Masking occurs.  How many steps are audible?
+
+<audio controls>
+  <source src="../sounds/track25.wav" type="audio/wav">
+</audio>
+
+
+
 #### Three types of Masking
 
 <img style="background:white;" src="./images/critical_bands/image36-80.png"></img>
 
-
-
-#### Masking in Time and Frequency
-
-<img style="background:white;" src="./images/critical_bands/image37-82.gif"></img>
-
-
-
-#### Psychoacoustics and MP3
-
-- MPEG audio compression takes advantage of psychoacoustic models
-
-- Applies a filter bank to the input to break it into its frequency components
-
-- Inaudible frequency components are discarded because they are either underneath the threshold of hearing or are masked by other components
-
-
-
-#### Psychoacoustics and Consonance
-
-- The motion from consonance to dissonance and back again is a standard feature of most Western music, and several attempts have been made to explain, define, and quantify the terms 'consonance' and 'dissonance'
-
-
-
-#### Sensory Dissonance with Sinewaves
-
-- One approach is called tonal or sensory dissonance, in which the sensory dissonance between pairs of sine waves is determined from psychoacoustic experiments. 
-
-- The sensory dissonance of more complex sounds is then defined to be the sum of the dissonances between all simultaneously sounding sine wave partials. 
-
-
-
-#### Sensory Dissonance with Sinewaves
-
-- Because sensory dissonance depends on the partials, sounds with different spectra may function differently. 
-
-- For instance, an interval may be quite consonant when played with one sound, but quite dissonant when performed with another
-
-
-
-#### Dissonance Curve
-
-- This describes the sensory dissonance of a sound
-
-- The example on the next slide  shows a plot for a sound with six harmonic partials over a range of intervals slightly larger than an octave. 
-
-
-
-#### Dissonance Curve
-
-<img style="background:white;" src="./images/critical_bands/image38-84.png"></img>
-
-- Dissonance curve for a spectrum with fundamental at 500 Hz and six harmonic partials has minima at 1.0, 1.14, 1.2, 1.25, 1.33, 1.5, 1.67, 1.78, and 2.0, which are shown by the tick marks on the frequency axis
-
-
-
-#### Dissonance Curve Analysis
-
-- The minima of this curve occur at the simple integer ratios of the Just Intonation scale, reinforcing the familiar notion that the most consonant (i.e. least dissonant) intervals for sounds with harmonic spectra are those with small integer ratios. 
-
-- The top axis shows the steps of the 12-tone equal tempered scale, which can be viewed as approximating many of these just ratios.
-
-
-
-#### Sensory Consonance
-
-- Sensory consonance is thought to be dependent on three fundamental auditory attributes: roughness, sharpness, and tonalness
-
-- Sharpness refers to the high energy in the upper registers of a sound's timbre and tonalness is the degree of tonal components a sound holds
-
-- For the sounds of music and for their musical consonance, roughness is most important.
-
-
-
-#### Tonalness
-
-- Aures defined this as the relationship between the tonal and noise components in the signal after the pitch and masking phenomena are corrected 
-
-
-
-#### Consonance and Dissonance in Music
-
-- Consonant chords are, roughly speaking, made up of notes that 'sound good' together, like middle C and the G above it (an interval called a fifth). 
-
-- Dissonant chords are combinations that sound jarring, like middle C and the C sharp above (a minor second). 
-
-
-
-#### More formally
-
-- Consonant intervals are usually described as pleasant and agreeable. 
-- Dissonant intervals are those that cause tension and desire to be resolved to consonant intervals. 
-
-
-
-#### Consonance
-
-- Consonances are traditionally divided into two groups: perfect and imperfect. 
-
-- Perfect intervals (1, 4, 5, 8) are perfect consonances, as seen in the polyphonic music of the Middle Ages. 
-
-- Imperfect consonances (3 and 6) are either major or minor. 
-
-
-
-#### Dissonance
-
-- Dissonances can be divided into sharp and soft dissonances. This division relates mainly to atonal music. 
-
-- Minor second and major seventh are sharp dissonances. In tonal music, non-diatonic intervals (diminished and augmented) are usually dissonances, 
-
-- However in jazz and other African-American music, the tritone is "neutral", so it does not require resolution to a consonance.
-
-
-
-#### Consonance and Dissonance
-- Note that the concepts "consonance" and "dissonance" are highly context-related. 
-
-- How sonance (consonance or dissonance) is perceived depends on several music-psychological factors including temperament; genre (in atonal music, consonances are scarce); timbre; the extent of the interval. 
-
-
-
-#### Chords and overtones
-
-- All sounds except sinewaves will contain more than one frequency component. These are often called overtones or partials
-
-- They are described as harmonics if their frequency has an integer relationship with the pitch/fundamental frequency of the sound. The frequency components that made up sound of most pitched instruments has this relationship approximately
-
-
-
-#### Chords and overtones
-
-- A sound is inharmonic is the frequency component relationships are not integers, and this well describes metal percussive sound
-
-
-
-#### Chords and overtones
-
-- Considering  the playing of chords there are many consonance and dissonance relationship they can occur between each frequency component in the constituent notes
-
-- The pleasantness of the resulting sound then is highly dependent on the relative positions of the frequency components and their amplitudes
-
-
-
-#### Consonance and Dissonance
-
-- It has often been suggested that humans have innate preferences for consonance over dissonance, 
-
-- This has led some to conclude that music in which dissonance features prominently is violating a natural law and is bound to sound bad... but it is very subjective
-
-
-
-#### History and Consonance
-
-- The debate over what constitutes consonance and dissonance is as old as the music-theoretic tradition itself. 
-
-- Indeed, most historical narratives begin with Pythagoras; 
-
-- Pythagoras judged consonance, or symphonos, in terms of mathematical ratios.
-
-
-
-#### Pythagoras and Consonance
-
-- He recognised that the pitch of a string is related to its length and that the degree to which two simultaneous tones sound consonant is determined by the simplicity of their length ratios. 
-
-- For example, a ratio of 2/1 is considered simpler, and therefore more consonant, than one of 4/3, because the integers involved are smaller.
-
-
-
-#### Helmholtz
-
-- Much later on Helmholtz outlined an extensive, "mechanistic" explanation for the consonance-dissonance distinction that involved the presence of beating
-
-- Helmholtz conceived of consonance as a sensory response caused by two factors, the affinity of the upper partials (overtones) of two or more tones and the absence of acoustic beats among these partials
-
-
-
-#### Helmholtz
-
-- For Helmholtz, the preponderance of acoustical beating and the sensation of roughness was what constituted dissonance; 
-
-- this not only included beating, between the fundamentals of frequencies tuned "improperly" but the beating of conflicting partials between multiple frequencies that are either mistuned, have inharmonic timbres, or both.
-
-
-
-#### Helmholtz and Music
-
-- However, he did recognize that musical theory and practice involved digressions from the physical properties of sound
-
-
-
-#### Stumpf
-
-- Psychologist Carl Stumpf (1848-1936) held a different viewpoint, taking a psychological frame of reference - Tonpsychologie (the psychology of musical sound)
-
-- Stumpf asserted instead that dissonance is a psychological response: the perception of lack of tonal fusion of two tones
-
-
-
-#### Modern Times
-
-- Green and Butler's conclusion regarding what they deem "the legacy of Helmholtz and Stumpf" strongly suggests that modern, current conceptions of musical consonance rely much more upon subjective, aesthetic judgement rather than objective, scientific definitions
-
-- Burdette Green and David Butler, "From Acoustics to Tonpsychologie," The Cambridge History of Western Music Theory, ed. Thomas Christensen (New York: Cambridge University Press, 2002, 260 
-
-
-
-#### Psychoacoustics and Dissonance
-
-- Two tones close in frequency interfere to produce 'beating'. 
-
-- If the difference in frequency is within a certain range, rapid beats create a rattling sound called roughness. 
-
-- An aversion to roughness has seemed consistent with the common dislike of intervals such as minor seconds.
-
-
-
-#### Psychoacoustics and Dissonance
-
-- In a recent study normal-hearing people rated small intervals (minor seconds and major seconds, such as C-D) and large but sub-octave intervals (minor sevenths (C-B flat) and major sevenths (C-B)) as very unpleasant.
-
-- People with amusia, who cannot distinguish between tones, showed no distinctions between any of the intervals
-
-
-
-#### Psychoacoustics and Dissonance
-
-- Both groups could detect beating and they found that the amusics disliked it about as much as the control group. So apparently something else was causing the latter to dislike the dissonant intervals.
-
-- The scientists postulated then that it was the harmonicity of consonant intervals that most people prefer
-
-
-
-#### Psychoacoustics and Dissonance
-
-- Notes contain many overtones - frequencies that are whole-number multiples of the basic frequency in the note. 
-
-- For consonant intervals the overtones of the two notes tend to coincide as whole-number multiples, 
-
-- For dissonant intervals this is no longer the case: they look more like the irregular overtones for sounds that are 'inharmonic'.
-
-
-
-#### Psychoacoustics and Dissonance
-
-- The normal group preferred consonant intervals with these regular harmonic relationships over artificial 'consonant' ones in which the overtones were subtly shifted to be inharmonic while the basic tones remained the same. 
-
-- For the amusics, meanwhile, they registered no difference between the two cases: they seem to be insensitive to harmonicity.
-
-
-
-#### Connection to tuning and intonation
-
-- Tuning systems are significant impacted
-- Consider the intervals played in Just Intonation and Equal temperament
-
-<audio controls>
-  <source src="./sounds/critical_bands/media1-87.wav" type="audio/wav">
-</audio>
-
-
-
-#### Missing Fundamental
-
-- This can happen when the combination of partials suggests that the waveform should have a lower fundamental frequency, but no component exists at that lower frequency
-
-- The fundamental frequency of a waveform is found by the Highest Common Factor (HCF), so 3 components, 200Hz, 300Hz, and 400Hz have a HCF=100Hz. The waveform repeats at the rate of 100Hz
-
-- The brain realises this and fills in. 
-
-
-
-#### Missing Fundamental
-
-- Try the example here 
-    - https://www.auditoryneuroscience.com/topics/missing-fundamental
-
-
-
-#### Just Intonation
-
-- Just intonation aims at maximal harmony, tuning all intervals with rational frequency ratios, see next slide for the relationships
-
-- This system results in an absence of beats but has differences in the sizes of intervals along the scale
-
-- Just intonation makes transposition and modulation difficult (at least within the confines of a 12-pitch keyboard)
-
-
-
-#### Frequency ratios of the scales
-|   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|
-|major| 1 | 9/8  | 5/4  | 4/3  | 3/2  | 5/3 | 15/8 | 2/1 |
-|minor| 1 | 9/8  | 6/5  | 4/3  | 3/2  | 8/5 | 9/5 | 2/1 |
-
-- Example of scale in Just Intonation
-    - <audio controls>
-  <source src="./sounds/critical_bands/media2-88.wav" type="audio/wav">
-</audio>
-- Example of chords in Just intonation
-    - <audio controls>
-  <source src="./sounds/critical_bands/media3-89.wav" type="audio/wav">
-</audio>
-
-
-
-#### Just Intonation
-
-- However, with software now you hear and play music in 'just intonation' music
-- http://just-intonation.org/
-
-
-
-
-#### Equal temperament
-
-- In equal temperament every semitone is the same distance apart 
-
-- In equal temperament the octave is divided into 12 equal intervals not because it sounds better that way-but primarily because the music can be transposed to any key
-
-
-
-#### Equal temperament
-- The twelve-tone equal-tempered scale contains all seven of the basic consonant intervals to a good approximation - within one percent - and contains more consonant intervals than dissonant intervals
-- Tuning an instrument-primarily keyboard instruments-to twelve-tone equal temperament introduces a lot of beating, and hence, roughness. 
-
-
-
-#### Equal temperament
-- Basic Consonant Intervals
-    - 2/1 octave harmonic inverse of 1/1
-    - 3/2 perfect fifth harmonic inverse of 4/3
-    - 4/3 perfect fourth harmonic inverse of 3/2
-    - 5/3 major sixth harmonic inverse of 6/5
-    - 5/4 major third harmonic inverse of 8/5
-    - 6/5 minor third harmonic inverse of 5/3
-    - 8/5 minor sixth harmonic inverse of 5/4
-- Note that the inverse is when you switch the interval, 
-- i.e. C with G above is a 5th, C with G below is a 4th
-
-
-
-#### Equal temperament
-
-- Compositions performed in twelve-tone equal-temperament will contain a healthy amount of beating between its intervals and harmonies
-
-- Taking a Stumpfian view: tonal music in equal temperament isn't dissonant because listeners, by and large, don't consider equally tempered intervals and the harmonies they produce as being dissonant
-
-
-
-#### Alternative tuning systems
-
-- There are a number of proposed systems out there
-- John O'Sullivan in the US has Eagle53 http://johnsmusic7.com/
-- http://just-intonation.org/
-- http://nicksworldofsynthesizers.com/flashorgan.php
-
-
-
-#### Hermode Tuning
-
-- http://www.hermode.com/index_en.html
-- This is a system for tuning electronic instruments dynamically in real time
-- It takes away the tuning errors of traditional equal temperament, tuning fifth and thirds to a high degree of purity. The result is powerful bass and brilliant treble
-
-
-
-#### Hermode Tuning Theory
-
-- See here for the theory
-    http://doc.crudebyte.com/musical-tuning-systems/
-
-
-
-#### Examples
-
-http://www.hermode.com/html/hermode-tuning-examples_en.html
-
-
-
-
-#### Some more background
-
-- Online book on the development of musical tuning systems
-    http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.2097&rep=rep1&type=pdf
-
-    http://demonstrations.wolfram.com/PythagoreanMeantoneAndEqualTemperamentMusicalScales/
