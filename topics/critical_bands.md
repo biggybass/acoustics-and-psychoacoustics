@@ -686,7 +686,7 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 - The first forward masking demonstration plays a masking tone and then a tone that is a semitone down with a 100 ms delay in between.  
 - Notice that you can hear both tones even though the second tone is decreased in 3 dB increments.  
 <audio controls>
-  <source src="../sounds/track21.wav" type="audio/wav">
+  <source src="./sounds/track21.wav" type="audio/wav">
 </audio>
 
 
@@ -694,7 +694,7 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 #### Forward Masking Demo
 - The second forward masking demo, plays the same two tones with a time delay of 10 ms. Masking occurs in this demonstration.  How many steps are audible before the second tone is masked?
 <audio controls>
-  <source src="../sounds/track22.wav" type="audio/wav">
+  <source src="./sounds/track22.wav" type="audio/wav">
 </audio>
 
 
@@ -724,12 +724,12 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 
 - The initial tone is going to be masked by the tone that follows.  In the first demonstration, a time delay is set to 100 ms. You should be able to hear the first tone throughout.  
 <audio controls>
-  <source src="../sounds/track23.wav" type="audio/wav">
+  <source src="./sounds/track23.wav" type="audio/wav">
 </audio>
 
 - The time delay is then decreased, but still above the 10 ms range.  This is a grey area.  Does masking occur in this demonstration?  
 <audio controls>
-  <source src="../sounds/track24.wav" type="audio/wav">
+  <source src="./sounds/track24.wav" type="audio/wav">
 </audio>
 
 
@@ -739,7 +739,7 @@ In this case, the masking tone would need to be above 80dB to mask the test tone
 - Finally, in the third demo, track 25, the time delay is below 10 ms. Masking occurs.  How many steps are audible?
 
 <audio controls>
-  <source src="../sounds/track25.wav" type="audio/wav">
+  <source src="./sounds/track25.wav" type="audio/wav">
 </audio>
 
 
