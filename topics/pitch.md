@@ -19,7 +19,7 @@
 
 
 #### Musical Notes and Fundamental Frequency
-<img src='../images/pitch/img.png' width='500px' height='450px'></img>
+<img src='./images/pitch/img.png' width='500px' height='450px'></img>
 
 - Acoustic pressure waveform of A4 (440Hz) played on a violin, trumpet, flute and oboe
 
@@ -53,7 +53,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Musical Notes and Fundamental Frequency
 
-<img src='../images/pitch/img.png' width='280px' height='240px'></img>
+<img src='./images/pitch/img.png' width='280px' height='240px'></img>
 
 - For the violin note shown the $f_0$ equivalent to any cycle can be found by measuring the period of that cycle from the waveform plot from which the $f\_0$ can be calculated 
 
@@ -82,7 +82,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Musical notes and their harmonics
 
-<img src='../images/pitch/img.png' width='280px' height='240px'></img>
+<img src='./images/pitch/img.png' width='280px' height='240px'></img>
 - While the periods and therefore the $f_0$ values of these notes are similar, their waveform shapes are very different
 
 
@@ -288,14 +288,14 @@ $((n+1)f_0)-(nf\_0)=(nf\_0)+(1f\_0)-(nf\_0)=f\_0$
 
 #### Place theory of pitch perception
 
-<img src='../images/pitch/img 1.png' width='400px' height='200px'></img>
+<img src='./images/pitch/img 1.png' width='400px' height='200px'></img>
 - Above shows an idealized spectrum of a sound which contains just odd harmonics (1 $f\_0$, 3 $f\_0$, 5 $f\_0$, ...)
 
 
 
 #### Place theory of pitch perception
 
-<img src='../images/pitch/img 1.png' width='400px' height='200px'></img>
+<img src='./images/pitch/img 1.png' width='400px' height='200px'></img>
 - It also shows that measurement of the frequency distance between adjacent harmonics would give $f_0$, $2 f\_0$, $2 f\_0$, $2 f\_0$, etc.
 
 
@@ -303,14 +303,14 @@ $((n+1)f_0)-(nf\_0)=(nf\_0)+(1f\_0)-(nf\_0)=f\_0$
 
 #### Place theory of pitch perception
 
-<img src='../images/pitch/img 1.png' width='400px' height='200px'></img>
+<img src='./images/pitch/img 1.png' width='400px' height='200px'></img>
 - The minimum spacing between the harmonics is $f_0$, which gives a possible basis for pitch perception.
 
 
 
 #### Place theory of pitch perception
 
-<img src='../images/pitch/img 1.png' width='400px' height='200px'></img>
+<img src='./images/pitch/img 1.png' width='400px' height='200px'></img>
 - However, if the $f_0$ component were removed the perceived pitch would not change
 - The spacings between adjacent harmonics is now $3 f_0$, $2 f\_0$, $2 f\_0$, $2 f\_0$, etc. the minimum spacing is $2 f\_0$, but the pitch does not jump up by an octave
 
@@ -380,7 +380,7 @@ $((n+1)f_0)-(nf\_0)=(nf\_0)+(1f\_0)-(nf\_0)=f\_0$
 
 - Consider a sound consisting of all harmonics ($f\_0$ , 2 $f\_0$ , 3 $f\_0$, 4 $f\_0$, 5 $f\_0$, etc.) whose $f\_0$ is 110Hz
 
-<img src='../images/pitch/img 2.png' width='600px' height='400px'></img>
+<img src='./images/pitch/img 2.png' width='600px' height='400px'></img>
 
 
 
@@ -388,7 +388,7 @@ $((n+1)f_0)-(nf\_0)=(nf\_0)+(1f\_0)-(nf\_0)=f\_0$
 
 - The frequencies of the first 10 harmonics are given in the left-hand column of the table
 
-<img src='../images/pitch/img 2.png' width='600px' height='400px'></img>
+<img src='./images/pitch/img 2.png' width='600px' height='400px'></img>
 
 
 
@@ -396,7 +396,7 @@ $((n+1)f_0)-(nf\_0)=(nf\_0)+(1f\_0)-(nf\_0)=f\_0$
 
 - The next column shows the critical bandwidth of a filter centered on each of these harmonics
 
-<img src='../images/pitch/img 2.png' width='600px' height='400px'></img>
+<img src='./images/pitch/img 2.png' width='600px' height='400px'></img>
 
 
 
@@ -404,7 +404,7 @@ $((n+1)f_0)-(nf\_0)=(nf\_0)+(1f\_0)-(nf\_0)=f\_0$
 
 - The critical bandwidth increases with filter center frequency and the frequency analysis action of the basilar membrane is equivalent to a bank of filters.
 
-<img src='../images/pitch/img 2.png' width='600px' height='400px'></img>
+<img src='./images/pitch/img 2.png' width='600px' height='400px'></img>
 
 
 
@@ -412,7 +412,7 @@ $((n+1)f_0)-(nf\_0)=(nf\_0)+(1f\_0)-(nf\_0)=f\_0$
 
 - Harmonics will cease to be resolved by the place mechanism when the critical bandwidth exceeds the frequency spacing between adjacent harmonics, which is $f_0$ when all adjacent harmonics are present.
 
-<img src='../images/pitch/img 2.png' width='500px' height='360px'></img>
+<img src='./images/pitch/img 2.png' width='500px' height='360px'></img>
 
 
 
@@ -425,7 +425,7 @@ $((n+1)f_0)-(nf\_0)=(nf\_0)+(1f\_0)-(nf\_0)=f\_0$
 #### Problems with the place theory
 - However, the filter centred between the seventh and eighth harmonics has a critical bandwidth of 113.7 Hz which exceeds $f_0$ 110Hz
 
-<img src='../images/pitch/img 2.png' width='500px' height='360px'></img>
+<img src='./images/pitch/img 2.png' width='500px' height='360px'></img>
 
 
 
@@ -475,13 +475,13 @@ $= \Big[ \frac{3.453}{4.37} \Big] = 0.79kHz, 790Hz$
 
 #### Problems with the place theory
 
-<img src='../images/pitch/img 3.png' width='450px' height='500px'></img>
+<img src='./images/pitch/img 3.png' width='450px' height='500px'></img>
 
 
 
 #### Problems with the place theory
 
-<img src='../images/pitch/img 4.png' width='450px' height='250px'></img>
+<img src='./images/pitch/img 4.png' width='450px' height='250px'></img>
 
 - Notice that the energy is biased more towards lower frequencies for the 'sh' with a peak around 2.5kHz, compared with the 'ss' where the energy has a peak at about 5kHz
 

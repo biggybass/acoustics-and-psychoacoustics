@@ -17,7 +17,7 @@
 
 #### Interaural Time Difference (ITD)
 
-<img src='../images/spatialisation/1.png' width='400px' height='400px'></img>
+<img src='./images/spatialisation/1.png' width='400px' height='400px'></img>
 
 
 
@@ -38,7 +38,7 @@
 
 
 #### Interaural Time Difference (ITD)
-<img src='../images/spatialisation/img.png' width='400px' height='500px'></img>
+<img src='./images/spatialisation/img.png' width='400px' height='500px'></img>
 
 
 
@@ -75,7 +75,7 @@ $\Delta d = r \theta $
 
 #### Interaural Time Difference (ITD) 
 
-<img src='../images/spatialisation/img 1.png' width='400px' height='500px'></img>
+<img src='./images/spatialisation/img 1.png' width='400px' height='500px'></img>
 
 
 
@@ -98,7 +98,7 @@ $=6.73\times 10^{-4}s$
 
 
 #### Interaural Time Difference (ITD) 
-<img src='../images/spatialisation/img 2.png' width='450px' height='350px'></img>
+<img src='./images/spatialisation/img 2.png' width='450px' height='350px'></img>
 - This is a very small delay but a variation from this to zero determines the direction of sounds at low frequencies.
 
 
@@ -148,7 +148,7 @@ $f_{max}(\theta)=\frac{1}{2\times0.09m\times(\pi/2+\sin{\pi/2})}=743\text{Hz}$
 
 #### Interaural Intensity Difference (IID) 
 
-<img src='../images/spatialisation/img 3.png' width='500px' height='500px'></img>
+<img src='./images/spatialisation/img 3.png' width='500px' height='500px'></img>
 
 
 
@@ -162,7 +162,7 @@ $f_{max}(\theta)=\frac{1}{2\times0.09m\times(\pi/2+\sin{\pi/2})}=743\text{Hz}$
 
 #### Interaural Intensity Difference (IID) 
 
-<img src='../images/spatialisation/img 4.png' width='650px' height='500px'></img>
+<img src='./images/spatialisation/img 4.png' width='650px' height='500px'></img>
 
 
 
@@ -291,7 +291,7 @@ $f_{min(\theta=\pi/2)}=\frac{1}{3}\big(\frac{c}{d}\big)=\frac{1}{3}\times \big(\
 
 #### Delay Stereo
 
-<img src='../images/spatialisation/img 5.png' width='500px' height='400px'></img>
+<img src='./images/spatialisation/img 5.png' width='500px' height='400px'></img>
 - The two channels when loudspeakers contain predominantly directional cues based on delay to the listener.
 
 
@@ -307,7 +307,7 @@ $f_{min(\theta=\pi/2)}=\frac{1}{3}\big(\frac{c}{d}\big)=\frac{1}{3}\times \big(\
 
 #### Intensity Stereo
 
-<img src='../images/spatialisation/img 6.png' width='500px' height='400px'></img>
+<img src='./images/spatialisation/img 6.png' width='500px' height='400px'></img>
 
 
 
@@ -335,7 +335,7 @@ $f_{min(\theta=\pi/2)}=\frac{1}{3}\big(\frac{c}{d}\big)=\frac{1}{3}\times \big(\
 
 #### Binaural Stereo
 
-<img src='../images/spatialisation/img 8.png' width='400px' height='400px'></img>
+<img src='./images/spatialisation/img 8.png' width='400px' height='400px'></img>
 
 
 
