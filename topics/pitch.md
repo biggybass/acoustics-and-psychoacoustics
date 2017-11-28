@@ -53,7 +53,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Musical Notes and Fundamental Frequency
 
-<img src='./images/pitch/img.png' width='280px' height='240px'></img>
+<img src='../images/pitch/img.png' width='280px' height='240px'></img>
 
 - For the violin note shown the $f_0$ equivalent to any cycle can be found by measuring the period of that cycle from the waveform plot from which the $f\_0$ can be calculated 
 

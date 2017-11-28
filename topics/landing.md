@@ -37,3 +37,8 @@ console.log("sdfdsf");
 ##### Week 6
 - [Sound Localisation](index.html?topic=localisation)
 - [Notes, Harmony and Pitch Perception I](index.html?topic=pitch)
+
+
+
+##### Week 7
+- [Notes, Harmony and Pitch Perception II](index.html?topic=pitch2)
