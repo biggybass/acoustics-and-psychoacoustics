@@ -33,21 +33,21 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Temporal theory of pitch perception
 
-<img src='../images/pitch2/img.png' width='280px' height='240px'></img>
+<img src='./images/pitch2/img.png' width='280px' height='240px'></img>
 - The above diagram shows the output waveforms from such a bank of electronic filters with critical bandwidths based on the ERB equation, for C4 played on a violin
 
 
 
 #### Temporal theory of pitch perception
 
-<img src='../images/pitch2/img.png' width='280px' height='240px'></img>
+<img src='./images/pitch2/img.png' width='280px' height='240px'></img>
 - The output waveform from the filter with a center frequency just above 200Hz, the lowest center frequency represented in the figure, is a sine wave at $f_0$
 
 
 
 #### Temporal theory of pitch perception
 
-<img src='../images/pitch2/img.png' width='280px' height='240px'></img>
+<img src='./images/pitch2/img.png' width='280px' height='240px'></img>
 - This is because the $f_0$ component is resolved by the analysing filter, and an individual harmonic of a complex periodic waveform is a sine wave
 
 
@@ -55,40 +55,40 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 #### Temporal theory of pitch perception
 
 - As we have seen in the previous lecture place theory suggests that the first six harmonics will be resolved by the basilar membrane
-<img src='../images/pitch/img 2.png' width='600px' height='400px'></img>
+<img src='./images/pitch/img 2.png' width='600px' height='400px'></img>
 
 
 
 #### Temporal theory of pitch perception
 
-<img src='../images/pitch2/img.png' width='280px' height='240px'></img>
+<img src='./images/pitch2/img.png' width='280px' height='240px'></img>
 - It can be seen in the example shown that the second (around 520Hz), third (around 780Hz), fourth (around 1040Hz) and fifth (around 1300Hz) harmonics are resolved and their waveforms are sinusoidal
 
 
 
 #### Temporal theory of pitch perception
 
-<img src='../images/pitch2/img.png' width='280px' height='240px'></img>
+<img src='./images/pitch2/img.png' width='280px' height='240px'></img>
 - Some amplitude variation is apparent on these sine waves, particularly on the fourth and fifth, indicating the dynamic nature of the acoustic pressure output from musical instrument.
 
 
 
 #### Temporal theory of pitch perception
 
-<img src='../images/pitch2/img.png' width='280px' height='240px'></img>
+<img src='./images/pitch2/img.png' width='280px' height='240px'></img>
 
 - The sixth harmonic (around 1560Hz) has greater amplitude variation, but the individual cycles are clear.
 
 
 
 #### Temporal theory of pitch perception
-<img src='../images/pitch2/img.png' width='280px' height='240px'></img>
+<img src='./images/pitch2/img.png' width='280px' height='240px'></img>
 - Output waveforms for filter center frequencies above the sixth harmonic in this example are not sinusoidal because these harmonics are not resolved individually
 
 
 
 #### Temporal theory of pitch perception
-<img src='../images/pitch2/img.png' width='280px' height='240px'></img>
+<img src='./images/pitch2/img.png' width='280px' height='240px'></img>
 - At least two harmonics are combined in the outputs from filters which are not sinusoidal
 
 
@@ -131,7 +131,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 
 #### Temporal theory of pitch perception
-<img src='../images/pitch2/img.png' width='280px' height='240px'></img>
+<img src='./images/pitch2/img.png' width='280px' height='240px'></img>
 - The minimum time between firings (1 period of the stimulating waveform) at different places along the basilar membrane can be inferred from the diagram above for the violin playing C4, since it will be equivalent to the period of the output waveform from the analysis filter.
 
 
@@ -144,20 +144,20 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Temporal theory of pitch perception
 
-<img src='../images/pitch2/img 1.png' width='280px' height='340px'></img>
+<img src='./images/pitch2/img 1.png' width='280px' height='340px'></img>
 - The possible instants of nerve firing are illustrated in the above diagram
 
 
 
 #### Temporal theory of pitch perception
 
-<img src='../images/pitch2/img 1.png' width='280px' height='340px'></img>
+<img src='./images/pitch2/img 1.png' width='280px' height='340px'></img>
 - This shows that nerves fire phase locked to the stimulating waveform but not necessarily during every cycle.
 
 
 
 #### Temporal theory of pitch perception
-<img src='../images/pitch2/img 1.png' width='280px' height='340px'></img>
+<img src='./images/pitch2/img 1.png' width='280px' height='340px'></img>
 - This shows an idealized unrolled basilar membrane with places corresponding to where maximum stimulation occur for input components at multiples of $f\_{0}$ up to the sixteenth harmonic
 
 
@@ -175,14 +175,14 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 
 #### Temporal theory of pitch perception
-<img src='../images/pitch2/img 1.png' width='280px' height='340px'></img>
+<img src='./images/pitch2/img 1.png' width='280px' height='340px'></img>
 
 - Thus at the place on the basilar membrane stimulated by the $f_0$ component possible times between nerve firing are: $(1/f_0)$, $(2/f_0)$ and $(3/f_0)$ with fewer firings at the higher intervals. 
 
 
 
 #### Temporal theory of pitch perception
-<img src='../images/pitch2/img 1.png' width='280px' height='340px'></img>
+<img src='./images/pitch2/img 1.png' width='280px' height='340px'></img>
 
 - For the place stimulated by the second harmonic, possible firing times are: $[1/(2 f_0)], [2/(2 f_0)]$ or $(1/f_0), [3/(2 f_0)], [4/(2 f_0)]$ or $(2/f_0)$, and so on
 
@@ -197,7 +197,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Temporal theory of pitch perception
 
-<img src='../images/pitch2/img 1.png' width='280px' height='340px'></img>
+<img src='./images/pitch2/img 1.png' width='280px' height='340px'></img>
 
 - If the entries in all these inter-spike interval histograms were added together vertically (i.e., for each firing time interval), then the maximum entry would occur for the period of $f_0$
 
@@ -254,7 +254,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Contemporary theory of pitch perception
 
-<img src='../images/pitch2/img 2.png' width='280px' height='340px'></img>
+<img src='./images/pitch2/img 2.png' width='280px' height='340px'></img>
 - Above shows a model for pitch perception of complex tones which encapsulates the benefits described for both theories
 
 
@@ -309,7 +309,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Secondary aspects of pitch perception
 
-<img src='../images/pitch2/img 3.png' width='580px' height='340px'></img>
+<img src='./images/pitch2/img 3.png' width='580px' height='340px'></img>
 
 - The JND for pitch is shown with reference to the pitch at 60dB SPL to enable the frequencies and intensities of sine waves for which the effect might be perceived to be inferred
 
@@ -323,20 +323,20 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 
 #### Secondary aspects of pitch perception
-<img src='../images/pitch2/img 4.png' width='380px' height='340px'></img>
+<img src='./images/pitch2/img 4.png' width='380px' height='340px'></img>
 - The effect that the duration of a sound has on the perception of the pitch of a note is summarized graphically in the above diagram
 
 
 
 #### Secondary aspects of pitch perception
-<img src='../images/pitch2/img 4.png' width='380px' height='340px'></img>
+<img src='./images/pitch2/img 4.png' width='380px' height='340px'></img>
 
 - This shows the minimum number of cycles required at a given $f_0$ for a definite distinct pitch to be perceived
 
 
 
 #### Secondary aspects of pitch perception
-<img src='../images/pitch2/img 4.png' width='380px' height='340px'></img>
+<img src='./images/pitch2/img 4.png' width='380px' height='340px'></img>
 - Shorter sounds may be perceived as being pitched rather than non-pitched, the accuracy listeners can make such a judgement at worsens as the duration of the sound drops below that shown in the figure
 
 
@@ -358,7 +358,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Hearing Harmony
 
-<img src='../images/pitch2/img 5.png' width='580px' height='240px'></img>
+<img src='./images/pitch2/img 5.png' width='580px' height='240px'></img>
 
 - The full set of commonly considered two-note intervals and their names are shown relative to middle C
 
@@ -422,7 +422,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Consonance and Dissonance
 
-<img src='../images/pitch2/img 6.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 6.png' width='500px' height='240px'></img>
 
 - The figure above shows the perceived effect of two sine waves heard together when the difference between their frequencies was increased from 0 to above one critical bandwidth.
 
@@ -430,7 +430,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Consonance and Dissonance
 
-<img src='../images/pitch2/img 6.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 6.png' width='500px' height='240px'></img>
 
 - Listeners perceive a change from 'rough' to 'smooth' when the frequency difference crosses the critical bandwidth. In addition, a change occurs between 'rough fused' to 'rough separate' as the frequency difference is increased within the critical bandwidth.
 
@@ -438,21 +438,21 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Consonance and Dissonance
 
-<img src='../images/pitch2/img 7.png' width='400px' height='340px'></img>
+<img src='./images/pitch2/img 7.png' width='400px' height='340px'></img>
 - Figure above shows the result of an experiment by Plomp and Levelt (1965) to determine to what extent two sine waves played together sound consonant or dissonant as their frequency difference is altered
 
 
 
 #### Consonance and Dissonance
 
-<img src='../images/pitch2/img 7.png' width='400px' height='340px'></img>
+<img src='./images/pitch2/img 7.png' width='400px' height='340px'></img>
 - Listeners with no musical training were asked to indicate the consonance, or pleasantness, of two sine waves played together.
 
 
 
 #### Consonance and Dissonance
 
-<img src='../images/pitch2/img 7.png' width='400px' height='340px'></img>
+<img src='./images/pitch2/img 7.png' width='400px' height='340px'></img>
 - The result is the continuous pattern of response shown in the figure, with no particular musical interval being prominent in its degree of perceived consonance.
 
 
@@ -507,7 +507,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Hearing Musical Intervals
 
-<img src='../images/pitch2/img 8.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 8.png' width='500px' height='240px'></img>
 
 - The table above shows this calculation for two notes whose $f_0$ values are a perfect fifth apart ($f_0$ frequency ratio is 3:2), the lower note having an $f_0$ of 220Hz
 
@@ -515,7 +515,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Hearing Musical Intervals
 
-<img src='../images/pitch2/img 8.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 8.png' width='500px' height='240px'></img>
 
 - The frequency difference between each harmonic of each note and its closest neighbour harmonic in the other note is calculated (the higher of the two is used in the case of a tied distance) to give the entries in column 3
 
@@ -523,7 +523,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Hearing Musical Intervals
 
-<img src='../images/pitch2/img 8.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 8.png' width='500px' height='240px'></img>
 
 - The frequency midway between these harmonic pairs is found (column 4), and the critical bandwidth for these mid-frequencies is calculated (column 5)
 
@@ -582,25 +582,25 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Hearing Musical Intervals
 
-<img src='../images/pitch2/img 8.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 8.png' width='500px' height='240px'></img>
 
 
 
 #### Hearing Musical Intervals
 
-<img src='../images/pitch2/img 9.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 9.png' width='500px' height='240px'></img>
 
 
 
 #### Hearing Musical Intervals
 
-<img src='../images/pitch2/img 10.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 10.png' width='500px' height='240px'></img>
 
 
 
 #### Hearing Musical Intervals
 
-<img src='../images/pitch2/img 11.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 11.png' width='500px' height='240px'></img>
 
 
 
@@ -614,7 +614,7 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Hearing Musical Intervals
 
-<img src='../images/pitch2/img 9.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 9.png' width='500px' height='240px'></img>
 
 
 
@@ -634,19 +634,19 @@ $ \text{period in seconds}=\frac{1}{f_0 \text{in Hz}}$
 
 #### Hearing Musical Intervals
 
-<img src='../images/pitch2/img 10.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 10.png' width='500px' height='240px'></img>
 
 
 
 #### Hearing Musical Intervals
 
-<img src='../images/pitch2/img 13.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 13.png' width='500px' height='240px'></img>
 
 
 
 #### Hearing Musical Intervals
 
-<img src='../images/pitch2/img 14.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 14.png' width='500px' height='240px'></img>
 
 
 
@@ -710,7 +710,7 @@ $$ \frac{c}{c'}=\frac{129.746}{128} = 1.01364 $$
 
 #### Pythagorean tuning
 
-<img src='../images/pitch2/img 17.png' width='300px' height='300px'></img>
+<img src='./images/pitch2/img 17.png' width='300px' height='300px'></img>
 
 - Above shows this effect and the manner in which the notes can be notated. 
 
@@ -718,7 +718,7 @@ $$ \frac{c}{c'}=\frac{129.746}{128} = 1.01364 $$
 
 #### Pythagorean tuning
 
-<img src='../images/pitch2/img 5.png' width='500px' height='240px'></img>
+<img src='./images/pitch2/img 5.png' width='500px' height='240px'></img>
 
 - For example, notes such as D# and Eb, A# and Bb, Bbb and A are not the same and are known as 'enharmonics,' giving rise to the pairs of intervals such as major third and diminished fourth, and major seventh and diminished octave
 
@@ -743,7 +743,7 @@ $$ \frac{G}{C} = \frac{3}{2} $$
 
 - Below shows the frequency ratios between adjacent notes of the Pythagorean major scale.
 
-<img src='../images/pitch2/img 18.png' width='600px' height='300px'></img>
+<img src='./images/pitch2/img 18.png' width='600px' height='300px'></img>
 
 
 
@@ -796,7 +796,7 @@ $$ \frac{A}{C} = \frac{5}{4} \times \frac{F}{C} = \frac{5}{4} \times \frac{4}{3}
 
 - The frequency ratios of the members of the just diatonic major scale are shown below relative to C for convenience, along with the frequency ratios between adjacent notes 
 
-<img src='../images/pitch2/img 19.png' width='600px' height='300px'></img>
+<img src='./images/pitch2/img 19.png' width='600px' height='300px'></img>
 
 
 
@@ -804,7 +804,7 @@ $$ \frac{A}{C} = \frac{5}{4} \times \frac{F}{C} = \frac{5}{4} \times \frac{4}{3}
 
 - The figure shows that the just diatonic major scale has equal semitone intervals, but two different tone intervals, the larger of which is known as a 'major whole tone' and the smaller as a 'minor whole tone'
 
-<img src='../images/pitch2/img 19.png' width='600px' height='300px'></img>
+<img src='./images/pitch2/img 19.png' width='600px' height='300px'></img>
 
 
 
